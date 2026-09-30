@@ -1,0 +1,6 @@
+{
+  "name": "VoyageAI - AI Travel Agent",
+  "description": "Enter your trip details to search live flights, hotels, food, and curated places powered by n8n automated travel workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
